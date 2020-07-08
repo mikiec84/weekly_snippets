@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.files         = `git ls-files -z README.md lib`.split("\x0")
 
   s.add_development_dependency 'bundler', '~> 1.7'
-  s.add_development_dependency 'rake', '~> 10.0'
+  s.add_development_dependency 'rake', '~> 13.0'
   s.add_development_dependency 'minitest'
   s.add_development_dependency 'codeclimate-test-reporter'
 end

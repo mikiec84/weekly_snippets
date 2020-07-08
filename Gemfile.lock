@@ -11,7 +11,7 @@ GEM
     docile (1.1.5)
     minitest (5.5.1)
     multi_json (1.10.1)
-    rake (10.4.2)
+    rake (13.0.1)
     simplecov (0.9.1)
       docile (~> 1.1.0)
       multi_json (~> 1.0)
@@ -25,5 +25,5 @@ DEPENDENCIES
   bundler (~> 1.7)
   codeclimate-test-reporter
   minitest
-  rake (~> 10.0)
+  rake (~> 13.0)
   weekly_snippets!
